@@ -1,0 +1,14 @@
+.brand-name {
+    display: flex;
+    align-items: center;
+    background-color: rgb(97, 214, 97); /* Align items vertically */
+    width:  100%;
+  }
+  
+  .brand-logo {
+    margin-right: 10px; 
+    margin-left: 10px;/* Adjust the margin as needed */
+    border-color: black;
+    border-radius: 1cm;
+  }
+  
